@@ -1,2 +1,1 @@
-cat hellow.sh
-echo Hellow devops week1
+echo Hellow DEVOPS week1
